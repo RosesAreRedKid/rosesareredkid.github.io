@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## RosesAreRedKid's Website!
 
-You can use the [editor on GitHub](https://github.com/RosesAreRedKid/rosesareredkid.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I will put info for all things about me on this website :)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<a href="https://rosesareredkid.github.io/bestquotes.html">Click here for my best quotes across all of them!</a>
+
 
 ### Markdown
 
